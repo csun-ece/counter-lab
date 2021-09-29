@@ -13,19 +13,19 @@
 
 ## Task 1 result
 1. Testbench waveform
-2. Utilization report table
+2. Report utilization
 
 ## Task 2 result
 1. Testbench waveform
-2. Utilization report table
+2. Report utilization
 
 ## Task 3 result
 1. Testbench waveform
-2. Utilization report table
+2. Report utilization
 
 ## Task 4 result
 1. Testbench waveform
-2. Utilization report table
+2. Report utilization
 
 -------------
 
