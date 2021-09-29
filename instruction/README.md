@@ -1,4 +1,4 @@
-# Getting started with Vivado
+# Clock and Sequential logic
 **California State University, Northridge**  
 **Department of Electrical and Computer Engineering**  
 
