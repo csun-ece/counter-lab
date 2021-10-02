@@ -38,7 +38,7 @@ Design a 4 bit shift right ring counter. Update your 4 bit std_logic_vector coun
 
 Note 1: After the 4th clock cycle the values repeat from the start.  
 Name your source file `shift_right_ring_counter.vhd`  
-Create a simulation test bench to verify your design. Name your testbench `ring_counter_tb.vhd`  
+Create a simulation test bench to verify your design. Name your testbench `counter_tb.vhd`  
 
 :point_right: **Task 2**: (25 points)  
 Design a 4 bit shift left ring counter. Update your 4 bit std_logic_vector counter every clock cycle according to the following table:
@@ -53,7 +53,7 @@ Design a 4 bit shift left ring counter. Update your 4 bit std_logic_vector count
 Note 1: After the 4th clock cycle the values repeat from the start.  
 Note 2: You need to keep both shift_left and shift_right counter in the same testbench.  
 Name your source file `shift_left_ring_counter.vhd`  
-Use the `ring_counter_tb.vhd` you created in task 1 to simulate your design.  
+Use the `counter_tb.vhd` you created in task 1 to simulate your design.  
 
 :point_right: **Task 3**: (25 points)  
 Design a 4 bit binary counter. Update your 4 bit std_logic_vector counter every clock cycle according to the following table:
@@ -79,8 +79,7 @@ Design a 4 bit binary counter. Update your 4 bit std_logic_vector counter every 
 
 Note: after the 16th clock cycle the values repeat from the start.  
 Name your source file `binary_counter.vhd`  
-Create a simulation test bench to verify your design. Name your test bench
-`binary_counter_tb.vhd`  
+Use the `counter_tb.vhd` you created in task 1 to simulate your design.  
 
 :point_right: **Task 4**: (25 points)  
 Design a 4 Johnson counter. Update your 4 bit std_logic_vector counter every clock cycle according to the following table:
@@ -100,5 +99,4 @@ Recall: In Johnson counter the output from the last flip flop is inverted and fe
 
 Note: after the 8th clock cycle the values repeat from the start.  
 Name your source file `johnson_counter.vhd`   
-Create a simulation test bench to verify your design. Name your test bench
-`johnson_counter_tb.vhd`  
+Use the `counter_tb.vhd` you created in task 1 to simulate your design.  
