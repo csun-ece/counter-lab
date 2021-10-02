@@ -19,7 +19,7 @@ In this lab we will create different 4 bit counter using clock and sequential lo
 
 ## General requirements:
 - All counters will run under a simulated clock and will have asynchronous reset.
-- For all the designs counters should be reset to "0000" on reset
+- For all the designs counters should be reset to a default value
 - A 4 bit std_logic_vector should be used for the counter
 - Make sure to incrementally push your changes to the remote repo with an informative commit message. Your entire Vivado project should be pushed to the remote repo.
 - Testbench and report utilization after the implementation should be provided in the final report.
